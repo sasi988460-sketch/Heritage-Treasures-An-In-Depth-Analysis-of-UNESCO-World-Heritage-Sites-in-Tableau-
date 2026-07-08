@@ -1,0 +1,224 @@
+Name_en,Country,Region,Date_inscribed,Danger
+Italy Heritage Site 1,Italy,Europe and North America,1985,Yes
+Italy Heritage Site 2,Italy,Europe and North America,1995,No
+Italy Heritage Site 3,Italy,Europe and North America,1986,No
+Italy Heritage Site 4,Italy,Europe and North America,2012,No
+Italy Heritage Site 5,Italy,Europe and North America,2005,Yes
+Italy Heritage Site 6,Italy,Europe and North America,1983,No
+Italy Heritage Site 7,Italy,Europe and North America,2010,No
+Italy Heritage Site 8,Italy,Europe and North America,2013,No
+Italy Heritage Site 9,Italy,Europe and North America,2019,No
+Italy Heritage Site 10,Italy,Europe and North America,2004,No
+Italy Heritage Site 11,Italy,Europe and North America,2015,No
+Italy Heritage Site 12,Italy,Europe and North America,1978,No
+Italy Heritage Site 13,Italy,Europe and North America,1988,No
+Italy Heritage Site 14,Italy,Europe and North America,1999,No
+Italy Heritage Site 15,Italy,Europe and North America,1991,No
+Italy Heritage Site 16,Italy,Europe and North America,1999,No
+Italy Heritage Site 17,Italy,Europe and North America,2002,No
+Italy Heritage Site 18,Italy,Europe and North America,2000,No
+Italy Heritage Site 19,Italy,Europe and North America,1980,No
+Italy Heritage Site 20,Italy,Europe and North America,2012,No
+Italy Heritage Site 21,Italy,Europe and North America,2002,Yes
+Italy Heritage Site 22,Italy,Europe and North America,1996,No
+Italy Heritage Site 23,Italy,Europe and North America,2017,No
+Italy Heritage Site 24,Italy,Europe and North America,2001,No
+Italy Heritage Site 25,Italy,Europe and North America,1982,Yes
+China Heritage Site 1,China,Asia and the Pacific,1996,No
+China Heritage Site 2,China,Asia and the Pacific,1992,No
+China Heritage Site 3,China,Asia and the Pacific,2002,No
+China Heritage Site 4,China,Asia and the Pacific,2018,No
+China Heritage Site 5,China,Asia and the Pacific,1988,No
+China Heritage Site 6,China,Asia and the Pacific,1991,No
+China Heritage Site 7,China,Asia and the Pacific,2019,Yes
+China Heritage Site 8,China,Asia and the Pacific,2018,No
+China Heritage Site 9,China,Asia and the Pacific,1993,No
+China Heritage Site 10,China,Asia and the Pacific,2002,No
+China Heritage Site 11,China,Asia and the Pacific,2018,No
+China Heritage Site 12,China,Asia and the Pacific,1992,No
+France Heritage Site 1,France,Europe and North America,1992,No
+France Heritage Site 2,France,Europe and North America,1998,No
+France Heritage Site 3,France,Europe and North America,1982,No
+France Heritage Site 4,France,Europe and North America,2014,No
+France Heritage Site 5,France,Europe and North America,1998,No
+France Heritage Site 6,France,Europe and North America,2009,No
+Germany Heritage Site 1,Germany,Europe and North America,2007,No
+Germany Heritage Site 2,Germany,Europe and North America,1986,No
+Germany Heritage Site 3,Germany,Europe and North America,2013,No
+Germany Heritage Site 4,Germany,Europe and North America,2015,No
+Germany Heritage Site 5,Germany,Europe and North America,2015,No
+Germany Heritage Site 6,Germany,Europe and North America,1992,No
+Germany Heritage Site 7,Germany,Europe and North America,1986,No
+Germany Heritage Site 8,Germany,Europe and North America,1983,No
+Germany Heritage Site 9,Germany,Europe and North America,1985,No
+Germany Heritage Site 10,Germany,Europe and North America,1988,No
+Germany Heritage Site 11,Germany,Europe and North America,2005,No
+Germany Heritage Site 12,Germany,Europe and North America,2002,No
+Germany Heritage Site 13,Germany,Europe and North America,2007,No
+Germany Heritage Site 14,Germany,Europe and North America,2013,No
+Germany Heritage Site 15,Germany,Europe and North America,1978,No
+Germany Heritage Site 16,Germany,Europe and North America,1985,No
+Germany Heritage Site 17,Germany,Europe and North America,2012,No
+Germany Heritage Site 18,Germany,Europe and North America,2019,No
+Germany Heritage Site 19,Germany,Europe and North America,1996,No
+Germany Heritage Site 20,Germany,Europe and North America,2007,Yes
+Germany Heritage Site 21,Germany,Europe and North America,1994,No
+Germany Heritage Site 22,Germany,Europe and North America,1989,No
+Germany Heritage Site 23,Germany,Europe and North America,1984,No
+Germany Heritage Site 24,Germany,Europe and North America,1997,No
+Germany Heritage Site 25,Germany,Europe and North America,2010,No
+India Heritage Site 1,India,Asia and the Pacific,2001,No
+India Heritage Site 2,India,Asia and the Pacific,2012,No
+India Heritage Site 3,India,Asia and the Pacific,2011,No
+India Heritage Site 4,India,Asia and the Pacific,2016,No
+India Heritage Site 5,India,Asia and the Pacific,1979,No
+India Heritage Site 6,India,Asia and the Pacific,2001,No
+India Heritage Site 7,India,Asia and the Pacific,1997,No
+India Heritage Site 8,India,Asia and the Pacific,1993,No
+India Heritage Site 9,India,Asia and the Pacific,1983,No
+Mexico Heritage Site 1,Mexico,Latin America and the Caribbean,1982,No
+Mexico Heritage Site 2,Mexico,Latin America and the Caribbean,2012,No
+Mexico Heritage Site 3,Mexico,Latin America and the Caribbean,1986,No
+Mexico Heritage Site 4,Mexico,Latin America and the Caribbean,2013,No
+Mexico Heritage Site 5,Mexico,Latin America and the Caribbean,2011,No
+Mexico Heritage Site 6,Mexico,Latin America and the Caribbean,2005,No
+Mexico Heritage Site 7,Mexico,Latin America and the Caribbean,2012,No
+Mexico Heritage Site 8,Mexico,Latin America and the Caribbean,1990,No
+Mexico Heritage Site 9,Mexico,Latin America and the Caribbean,2003,No
+Mexico Heritage Site 10,Mexico,Latin America and the Caribbean,2019,No
+Mexico Heritage Site 11,Mexico,Latin America and the Caribbean,2011,No
+Mexico Heritage Site 12,Mexico,Latin America and the Caribbean,1993,No
+Mexico Heritage Site 13,Mexico,Latin America and the Caribbean,1999,Yes
+Mexico Heritage Site 14,Mexico,Latin America and the Caribbean,2013,No
+Mexico Heritage Site 15,Mexico,Latin America and the Caribbean,1992,Yes
+Mexico Heritage Site 16,Mexico,Latin America and the Caribbean,2018,Yes
+Mexico Heritage Site 17,Mexico,Latin America and the Caribbean,1982,No
+Mexico Heritage Site 18,Mexico,Latin America and the Caribbean,1999,Yes
+Mexico Heritage Site 19,Mexico,Latin America and the Caribbean,1993,No
+Mexico Heritage Site 20,Mexico,Latin America and the Caribbean,2009,No
+Spain Heritage Site 1,Spain,Europe and North America,2014,No
+Spain Heritage Site 2,Spain,Europe and North America,1993,No
+Spain Heritage Site 3,Spain,Europe and North America,2004,No
+Spain Heritage Site 4,Spain,Europe and North America,1984,No
+Spain Heritage Site 5,Spain,Europe and North America,2000,No
+Spain Heritage Site 6,Spain,Europe and North America,2007,No
+Spain Heritage Site 7,Spain,Europe and North America,1981,No
+Spain Heritage Site 8,Spain,Europe and North America,2019,No
+Spain Heritage Site 9,Spain,Europe and North America,2003,No
+Iran Heritage Site 1,Iran,Arab States,1993,No
+Iran Heritage Site 2,Iran,Arab States,2012,No
+Iran Heritage Site 3,Iran,Arab States,2005,No
+Iran Heritage Site 4,Iran,Arab States,2007,No
+Iran Heritage Site 5,Iran,Arab States,1982,No
+Iran Heritage Site 6,Iran,Arab States,2013,No
+Iran Heritage Site 7,Iran,Arab States,2019,No
+Iran Heritage Site 8,Iran,Arab States,1978,No
+Egypt Heritage Site 1,Egypt,Arab States,1988,No
+Egypt Heritage Site 2,Egypt,Arab States,2008,No
+Egypt Heritage Site 3,Egypt,Arab States,2003,No
+Egypt Heritage Site 4,Egypt,Arab States,1988,No
+Egypt Heritage Site 5,Egypt,Arab States,2002,No
+Egypt Heritage Site 6,Egypt,Arab States,2007,No
+Egypt Heritage Site 7,Egypt,Arab States,2013,No
+Egypt Heritage Site 8,Egypt,Arab States,2009,No
+Egypt Heritage Site 9,Egypt,Arab States,1996,No
+Egypt Heritage Site 10,Egypt,Arab States,1981,No
+Egypt Heritage Site 11,Egypt,Arab States,2012,Yes
+Egypt Heritage Site 12,Egypt,Arab States,1998,Yes
+Brazil Heritage Site 1,Brazil,Latin America and the Caribbean,2008,No
+Brazil Heritage Site 2,Brazil,Latin America and the Caribbean,2011,No
+Brazil Heritage Site 3,Brazil,Latin America and the Caribbean,2010,No
+Brazil Heritage Site 4,Brazil,Latin America and the Caribbean,1989,Yes
+Brazil Heritage Site 5,Brazil,Latin America and the Caribbean,1982,No
+Brazil Heritage Site 6,Brazil,Latin America and the Caribbean,1993,No
+Brazil Heritage Site 7,Brazil,Latin America and the Caribbean,2014,No
+Brazil Heritage Site 8,Brazil,Latin America and the Caribbean,2016,Yes
+Brazil Heritage Site 9,Brazil,Latin America and the Caribbean,1983,No
+Brazil Heritage Site 10,Brazil,Latin America and the Caribbean,2015,No
+Brazil Heritage Site 11,Brazil,Latin America and the Caribbean,1998,No
+Brazil Heritage Site 12,Brazil,Latin America and the Caribbean,1991,No
+Brazil Heritage Site 13,Brazil,Latin America and the Caribbean,1998,No
+Brazil Heritage Site 14,Brazil,Latin America and the Caribbean,2003,No
+Brazil Heritage Site 15,Brazil,Latin America and the Caribbean,2019,No
+Brazil Heritage Site 16,Brazil,Latin America and the Caribbean,1998,No
+Brazil Heritage Site 17,Brazil,Latin America and the Caribbean,1982,Yes
+Brazil Heritage Site 18,Brazil,Latin America and the Caribbean,2017,No
+Brazil Heritage Site 19,Brazil,Latin America and the Caribbean,1984,Yes
+Brazil Heritage Site 20,Brazil,Latin America and the Caribbean,1991,No
+Brazil Heritage Site 21,Brazil,Latin America and the Caribbean,1986,No
+Brazil Heritage Site 22,Brazil,Latin America and the Caribbean,1982,No
+Brazil Heritage Site 23,Brazil,Latin America and the Caribbean,2001,No
+United States Heritage Site 1,United States,Europe and North America,2012,No
+United States Heritage Site 2,United States,Europe and North America,2017,No
+United States Heritage Site 3,United States,Europe and North America,2019,No
+United States Heritage Site 4,United States,Europe and North America,2013,No
+United States Heritage Site 5,United States,Europe and North America,1984,No
+United States Heritage Site 6,United States,Europe and North America,1986,No
+United States Heritage Site 7,United States,Europe and North America,1984,No
+United States Heritage Site 8,United States,Europe and North America,1987,No
+United States Heritage Site 9,United States,Europe and North America,2016,No
+United States Heritage Site 10,United States,Europe and North America,1999,No
+United States Heritage Site 11,United States,Europe and North America,2018,No
+United States Heritage Site 12,United States,Europe and North America,2010,No
+United States Heritage Site 13,United States,Europe and North America,1981,No
+United States Heritage Site 14,United States,Europe and North America,2005,No
+United States Heritage Site 15,United States,Europe and North America,1980,Yes
+United States Heritage Site 16,United States,Europe and North America,1986,No
+United States Heritage Site 17,United States,Europe and North America,1994,No
+United States Heritage Site 18,United States,Europe and North America,2006,No
+United States Heritage Site 19,United States,Europe and North America,2005,No
+Japan Heritage Site 1,Japan,Asia and the Pacific,1982,No
+Japan Heritage Site 2,Japan,Asia and the Pacific,1987,No
+Japan Heritage Site 3,Japan,Asia and the Pacific,2001,No
+Japan Heritage Site 4,Japan,Asia and the Pacific,1987,No
+Japan Heritage Site 5,Japan,Asia and the Pacific,1980,No
+Japan Heritage Site 6,Japan,Asia and the Pacific,1980,No
+Japan Heritage Site 7,Japan,Asia and the Pacific,1991,No
+Japan Heritage Site 8,Japan,Asia and the Pacific,1984,No
+Peru Heritage Site 1,Peru,Latin America and the Caribbean,2004,No
+Peru Heritage Site 2,Peru,Latin America and the Caribbean,1987,No
+Peru Heritage Site 3,Peru,Latin America and the Caribbean,1993,No
+Peru Heritage Site 4,Peru,Latin America and the Caribbean,1989,No
+Peru Heritage Site 5,Peru,Latin America and the Caribbean,1979,No
+Peru Heritage Site 6,Peru,Latin America and the Caribbean,1999,No
+Peru Heritage Site 7,Peru,Latin America and the Caribbean,2004,No
+Peru Heritage Site 8,Peru,Latin America and the Caribbean,1993,No
+Peru Heritage Site 9,Peru,Latin America and the Caribbean,1984,No
+Peru Heritage Site 10,Peru,Latin America and the Caribbean,1980,No
+Peru Heritage Site 11,Peru,Latin America and the Caribbean,1992,No
+Peru Heritage Site 12,Peru,Latin America and the Caribbean,2007,No
+Peru Heritage Site 13,Peru,Latin America and the Caribbean,1992,No
+Peru Heritage Site 14,Peru,Latin America and the Caribbean,1990,No
+Peru Heritage Site 15,Peru,Latin America and the Caribbean,1995,No
+Peru Heritage Site 16,Peru,Latin America and the Caribbean,1995,No
+Peru Heritage Site 17,Peru,Latin America and the Caribbean,2010,No
+Peru Heritage Site 18,Peru,Latin America and the Caribbean,2012,No
+Peru Heritage Site 19,Peru,Latin America and the Caribbean,1979,No
+Peru Heritage Site 20,Peru,Latin America and the Caribbean,1994,No
+Peru Heritage Site 21,Peru,Latin America and the Caribbean,1994,Yes
+Peru Heritage Site 22,Peru,Latin America and the Caribbean,2016,No
+South Africa Heritage Site 1,South Africa,Africa,2005,No
+South Africa Heritage Site 2,South Africa,Africa,2010,No
+South Africa Heritage Site 3,South Africa,Africa,2014,No
+South Africa Heritage Site 4,South Africa,Africa,1980,No
+South Africa Heritage Site 5,South Africa,Africa,1978,No
+South Africa Heritage Site 6,South Africa,Africa,2012,No
+South Africa Heritage Site 7,South Africa,Africa,1990,No
+South Africa Heritage Site 8,South Africa,Africa,1982,No
+South Africa Heritage Site 9,South Africa,Africa,1999,No
+South Africa Heritage Site 10,South Africa,Africa,1985,No
+South Africa Heritage Site 11,South Africa,Africa,1997,No
+South Africa Heritage Site 12,South Africa,Africa,2004,No
+South Africa Heritage Site 13,South Africa,Africa,1996,No
+South Africa Heritage Site 14,South Africa,Africa,1990,No
+South Africa Heritage Site 15,South Africa,Africa,2002,No
+Kenya Heritage Site 1,Kenya,Africa,2017,No
+Kenya Heritage Site 2,Kenya,Africa,2003,No
+Kenya Heritage Site 3,Kenya,Africa,1978,No
+Kenya Heritage Site 4,Kenya,Africa,1991,No
+Kenya Heritage Site 5,Kenya,Africa,2015,No
+Kenya Heritage Site 6,Kenya,Africa,1998,No
+Kenya Heritage Site 7,Kenya,Africa,2006,No
+Kenya Heritage Site 8,Kenya,Africa,2010,No
+Kenya Heritage Site 9,Kenya,Africa,1988,No
+Kenya Heritage Site 10,Kenya,Africa,1996,No
