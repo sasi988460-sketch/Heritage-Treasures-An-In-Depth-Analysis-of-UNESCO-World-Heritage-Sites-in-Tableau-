@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Heritage Treasures Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: Arial, sans-serif; background: #0f1117; color: #e6e6e6; margin: 0; padding: 0 20px 40px; }
+  header { padding: 30px 0 10px; text-align: center; }
+  header h1 { margin: 0; font-size: 1.8rem; color: #ffffff; }
+  header p { color: #9aa0aa; margin-top: 6px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin: 24px 0; }
+  .stat-card { background: #1b1e27; border-radius: 12px; padding: 18px 26px; text-align: center; min-width: 150px; }
+  .stat-card .value { font-size: 1.8rem; font-weight: bold; color: #4da3ff; }
+  .stat-card .label { color: #9aa0aa; font-size: 0.85rem; margin-top: 4px; }
+  .chart-card { background: #1b1e27; border-radius: 12px; padding: 10px; margin: 24px auto; max-width: 1100px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Heritage Treasures</h1>
+  <p>An In-Depth Analysis of UNESCO World Heritage Sites (2019)</p>
+</header>
+<div class="stats">
+  <div class="stat-card"><div class="value">{{ stats.total_sites }}</div><div class="label">Total Sites</div></div>
+  <div class="stat-card"><div class="value">{{ stats.total_countries }}</div><div class="label">Countries</div></div>
+  <div class="stat-card"><div class="value">{{ stats.total_regions }}</div><div class="label">Regions</div></div>
+  <div class="stat-card"><div class="value">{{ stats.total_in_danger }}</div><div class="label">Sites In Danger</div></div>
+</div>
+<div class="chart-card">{{ treemap_html | safe }}</div>
+<div class="chart-card">{{ pie_html | safe }}</div>
+<div class="chart-card">{{ line_html | safe }}</div>
+</body>
+</html>
